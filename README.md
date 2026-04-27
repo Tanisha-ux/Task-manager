@@ -143,9 +143,6 @@ All state updates are **optimistic** — the UI changes immediately on a success
 | Port 5000 already in use | Change `PORT` in `server.js` and update `api.js` |
 | Blank page on frontend | Run `npm install` and restart with `npm run dev` |
  
----
+
  
-## License
- 
-This project is open source and available under the [MIT License](LICENSE).
- 
+
