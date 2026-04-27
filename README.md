@@ -8,17 +8,16 @@ A clean, beginner-friendly full-stack Task Manager built with **React** (fronten
  
 ```
 task-manager/
-├── backend/
-│   └── server.js
-└── frontend/
-    └── src/
+└── server.js
+└── api.js
+└── src/
         ├── App.jsx
         ├── App.css
         ├── TaskInput.jsx
         ├── TaskList.jsx
         ├── TaskItem.jsx
         ├── Task.css
-        └── api.js
+        
 ```
  
 ---
