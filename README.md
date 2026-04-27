@@ -103,7 +103,7 @@ The frontend will run at: **http://localhost:5173**
 - **Task stats** — See total, done, and pending counts at a glance
 - **Loading state** — Spinner shown while fetching tasks on page load
 - **Error handling** — User-friendly error messages if the backend is unreachable
----
+
  
 
  
