@@ -83,7 +83,7 @@ The frontend will run at: **http://localhost:5173**
  
 ---
  
-## 🔌 API Endpoints
+## API Endpoints
  
 | Method | Endpoint              | Description            |
 |--------|-----------------------|------------------------|
@@ -111,7 +111,7 @@ The frontend will run at: **http://localhost:5173**
  
 ---
  
-## ✨ Features
+## Features
  
 - **Add tasks** — Type a task and press `Enter` or click `+ Add`
 - **Delete tasks** — Remove any task instantly via the `✕` button
@@ -123,7 +123,7 @@ The frontend will run at: **http://localhost:5173**
 - **Error handling** — User-friendly error messages if the backend is unreachable
 ---
  
-## 🛠 Tech Stack
+## Tech Stack
  
 | Layer     | Technology              |
 |-----------|-------------------------|
@@ -135,7 +135,7 @@ The frontend will run at: **http://localhost:5173**
  
 ---
  
-## ⚙️ Configuration
+## Configuration
  
 The frontend connects to the backend via:
  
@@ -190,7 +190,7 @@ All state updates are **optimistic** — the UI changes immediately on a success
  
 ---
  
-## 📄 License
+## License
  
 This project is open source and available under the [MIT License](LICENSE).
  
