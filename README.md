@@ -122,23 +122,8 @@ If you change the backend port, update this value accordingly.
  
 ---
  
-## Full Dependency List
- 
-**Backend**
-```json
-{
-  "express": "^4.x",
-  "cors": "^2.x"
-}
-```
- 
-**Frontend** (via Vite)
-```json
-{
-  "react": "^18.x",
-  "react-dom": "^18.x"
-}
-```
+
+
  
 ---
  
