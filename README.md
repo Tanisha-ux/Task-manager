@@ -118,7 +118,7 @@ The frontend connects to the backend via:
 const BASE = "http://localhost:5000/tasks";
 ```
  
-If you change the backend port, update this value accordingly.
+
  
 ---
  
