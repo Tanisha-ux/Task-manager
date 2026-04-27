@@ -73,7 +73,7 @@ Open a **new terminal**, then:
  
 ```bash
 cd frontend
-npm create vite@latest . -- --template react
+npm create vite@latest task-manager
 npm install
 npm run dev
 ```
@@ -91,23 +91,6 @@ The frontend will run at: **http://localhost:5173**
 | PATCH  | `/tasks/:id/toggle`   | Toggle complete status |
 | DELETE | `/tasks/:id`          | Delete a task by ID    |
  
-### Request & Response Examples
- 
-**POST `/tasks`**
-```json
-// Request body
-{ "title": "Buy groceries" }
- 
-// Response
-{ "id": 1, "title": "Buy groceries", "completed": false }
-```
- 
-**PATCH `/tasks/1/toggle`**
-```json
-// Response
-{ "id": 1, "title": "Buy groceries", "completed": true }
-```
- 
 ---
  
 ## Features
@@ -122,15 +105,7 @@ The frontend will run at: **http://localhost:5173**
 - **Error handling** — User-friendly error messages if the backend is unreachable
 ---
  
-## Tech Stack
- 
-| Layer     | Technology              |
-|-----------|-------------------------|
-| Frontend  | React (JavaScript), CSS |
-| Backend   | Node.js, Express        |
-| Data      | In-memory array         |
-| Styling   | Plain CSS + Bootstrap 5 |
-| Modules   | ES Modules (`import/export`) |
+
  
 ---
  
