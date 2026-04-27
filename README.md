@@ -1,6 +1,6 @@
 # Task Manager — Full-Stack App
  
-A clean, beginner-friendly full-stack Task Manager built with **React** (frontend) and **Node.js + Express** (backend). Tasks are stored in-memory — no database required.
+A clean, beginner-friendly full-stack Task Manager built with **React** (frontend) and **Node.js + Express** (backend). Tasks are stored in-memory without any database.
 
 ---
  
