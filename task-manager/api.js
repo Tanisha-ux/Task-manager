@@ -1,4 +1,4 @@
-const BASE = "ttps://task-manager-3-ec3a.onrender.com/tasks";
+const BASE = "https://task-manager-3-ec3a.onrender.com/tasks";
 
 export async function fetchTasks() {
   const res = await fetch(BASE);
